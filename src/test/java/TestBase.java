@@ -7,9 +7,6 @@ import io.restassured.http.ContentType;
 import io.restassured.specification.RequestSpecification;
 import io.restassured.specification.ResponseSpecification;
 import org.junit.jupiter.api.BeforeAll;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-
 
 import static org.hamcrest.Matchers.is;
 
